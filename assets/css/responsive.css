@@ -1,0 +1,75 @@
+/*RESPONSIVE DEVICE MEDIA 1400PX*/
+@media (min-width: 1400px){
+	.container {
+		
+	}
+
+}
+
+/*RESPONSIVE DEVICE MEDIA 1200PX*/
+@media (max-width: 1200px){
+
+}
+
+/*RESPONSIVE DEVICE MEDIA 991PX*/
+@media (max-width: 991px)  {
+	
+	.home-slider{
+		height: 550px;	
+	}
+	.slider-content {
+		padding-right: 0;
+	}
+	.contact-map{
+		margin-top: 40px;
+	}
+}
+
+/*RESPONSIVE DEVICE MEDIA 768PX*/
+@media only screen and (max-width:768px) { 
+
+}
+
+@media only screen and (max-width: 767px){
+	#header-area {
+		padding: 20px 10px;
+	}
+	.navigation{
+		display: none;
+	}
+	#mobile_menu{
+		display: block;
+	}
+	.paryer-time p {
+		margin-bottom: 40px;
+	}
+}
+
+/*RESPONSIVE DEVICE MEDIA 575PX*/
+@media (max-width: 575px)  {
+
+}
+/*RESPONSIVE DEVICE MEDIA 480PX*/
+@media (max-width: 480px)  {
+
+
+	
+}
+
+@media (max-width: 600px)  {
+
+}
+/*RESPONSIVE DEVICE MEDIA 414PX*/
+@media (max-width: 575px)  {
+
+	
+}
+
+
+/*RESPONSIVE DEVICE MEDIA 360PX*/
+@media (max-width: 360px)  {
+
+	
+}
+
+
